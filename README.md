@@ -30,8 +30,3 @@ pip install -r requirements.txt
 3] Explore notebooks:
 Open the notebooks/ folder and run any .ipynb file.
 
-----
-
-**## Contributing**
-Contributions
-welcome! Fork, create a feature branch, and submit a PR.
